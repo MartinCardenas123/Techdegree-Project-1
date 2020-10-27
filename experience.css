@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+}
+body {
+      font-family: "fantasy";
+}
+
+.main-image {
+     border: solid 5px black;
+     border-radius: 65%
+}
+h1 {
+    background-color:#00BFFF
+    Padding 10px
+}
+
+.section-title{
+      text-transform: uppercase;
+}
